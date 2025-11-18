@@ -2,12 +2,15 @@
 - [README 中文](./README.md)
 - [README English](./README_EN.md)
 
+# Fork
+
+主要目标是开发更多的文件格式&输入数据结构的支持，提升luban的QoL。
+
 # Luban
 
 ![icon](docs/images/logo.png)
 
 [![license](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT) ![star](https://img.shields.io/github/stars/focus-creative-games/luban?style=flat-square)
-
 
 luban是一个强大、易用、优雅、稳定的游戏配置解决方案。它设计目标为满足从小型到超大型游戏项目的简单到复杂的游戏配置工作流需求。
 
